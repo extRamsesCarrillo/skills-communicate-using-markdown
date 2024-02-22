@@ -76,7 +76,22 @@ _Welcome to "Communicate using Markdown"! :wave:_
 # H1 Header
 ## H2 Header
 ### H3 Header
+``` javascript
+var myVar = "Hello, world!";
+```
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
